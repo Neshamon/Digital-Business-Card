@@ -1,10 +1,10 @@
-import React from "react"
+import React from "react";
 
 export default function Interests() {
   return (
-  	<section className = "interests">
+  	<section className = "interests-container">
     	<h3 className = "interests-title">Interests</h3>
-    	<p className = "info-job">Interests go here</p>
+    	<p className = "my-interests">Interests go here</p>
     </section>
   )
 }
