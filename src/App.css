@@ -34,6 +34,13 @@
 }
 
 /*About*/
+.about-title {
+  font-weight: 800;
+}
+
+.about-me {
+  font-size: .84em;
+}
 
 /*Footer*/
 
