@@ -3,19 +3,20 @@
   justify-content: center;
   align-items: center;
   background-color: darkgray;
-  width: 50%;
-  padding: 10rem;
+  width: 25%;
+  height: auto;
+  padding: 3em 8em 3em 8em;
 }
 
 .App {
   background: beige;
-  padding: 0 0 10em 0;
-  border-radius: 2% 2% 0 0;
+  padding: 0 0 7em 0;
+  border-radius: 10px 10px 10px 10px;
   text-align: center;
 }
 
 .myself {
-  border-radius: 2% 2% 0 0;
+  border-radius: 10px 10px 0 0;
   width: 100%;
   height: 100%;
 }
