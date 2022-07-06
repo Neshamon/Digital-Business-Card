@@ -5,7 +5,10 @@
   background-color: darkgray;
   width: 25%;
   height: auto;
-  padding: 3em 8em 3em 8em;
+  padding: 3em 5em 3em 5em;
+  margin: 2.5em 2em 2.5em 2em;
+  border-radius: 30px;
+  border: .3em solid white;
 }
 
 .App {
