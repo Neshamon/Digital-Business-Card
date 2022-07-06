@@ -8,7 +8,7 @@
   padding: 3em 5em 3em 5em;
   margin: 2.5em 2em 2.5em 2em;
   border-radius: 30px;
-  border: .3em solid white;
+  border: .3em solid hsl(225, 90%, 93.5%);
   box-shadow: 0.8em 0.4em .4em hsla(232, 14%, 31%, .5);
 }
 
