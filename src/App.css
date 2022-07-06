@@ -4,4 +4,15 @@
   align-items: center;
   background-color: darkgray;
   width: 50%;
+  padding: 10rem;
+}
+
+.App {
+  background: beige;
+  padding: 10em 5em 10em 5em;
+}
+
+.myself {
+  width: 50%;
+  height: 50%;
 }
