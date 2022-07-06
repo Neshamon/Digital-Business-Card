@@ -26,12 +26,12 @@
 }
 
 .interests-container {
-  padding: 0 0 1em 0;
+  padding: 0 0 0.5em 0;
 }
 
 .footer-container {
   background: hsl(225, 27%, 51%);
   border-radius: 0 0 10px 10px;
-  padding: 0 0 1.5em 0;
+  padding: 0 0 2.3em 0;
   color: hsl(231, 15%, 18%);
 }
