@@ -33,6 +33,14 @@
   padding: 0 0 0.5em 0;
 }
 
+.interests-title {
+  font-weight: 800;
+}
+
+.my-interests {
+  font-size: .84em;
+}
+
 /*About*/
 .about-title {
   font-weight: 800;
