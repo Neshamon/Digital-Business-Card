@@ -20,14 +20,22 @@
   color: hsl(232, 14%, 31%);
 }
 
+/*Info*/
+
 .myself {
   border-radius: 10px 10px 0 0;
   width: 100%;
 }
 
+/*Interests*/
+
 .interests-container {
   padding: 0 0 0.5em 0;
 }
+
+/*About*/
+
+/*Footer*/
 
 .footer-container {
   background: hsl(225, 27%, 51%);
